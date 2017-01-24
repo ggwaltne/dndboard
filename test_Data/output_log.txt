@@ -1,0 +1,25 @@
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\src\New Unity Project\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\src\New Unity Project\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\src\New Unity Project\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\src\New Unity Project\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\src\New Unity Project\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\src\New Unity Project\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.407 seconds
+Platform assembly: C:\src\New Unity Project\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\src\New Unity Project\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.010493 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1c80 -> priority: 1 
+  Thread -> id: 14b4 -> priority: 1 
