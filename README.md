@@ -7,9 +7,9 @@ Additional hardware will be needed to allow direct interation with the board.
 Unity 5
 
 ## Hardware
-Acer E5-573G-56RG
-LG 47" LCD 47LH40
-PQLabs 47" G4 32+ Touchpoint
+- Acer E5-573G-56RG
+- LG 47" LCD 47LH40
+- PQLabs 47" G4 32+ Touchpoint
 
 ## Setup
 Lie TV flat on table
