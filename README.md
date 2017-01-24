@@ -21,6 +21,8 @@ Run & Build Unity 5 Application
 
 ## Information
 Playable 14x26 grid
-The screen has a visual offset from the top left corner:
+  - 70x70 square pixels
+  - 1 pixel board thickness
+The TV screen has a visual offset from the top left corner:
   - 24 pixels Horizontal
   - 36 pixels Vertical
