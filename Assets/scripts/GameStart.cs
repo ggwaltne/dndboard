@@ -5,11 +5,10 @@ using System.Collections.Generic;
 public class GameStart : MonoBehaviour
 {
 
-    int sizex = 10;
-    int sizez = 10;
+    public int sizex = 10;
+    public int sizez = 10;
     int startX = 0;
     int startY = 0;
-    List<char> type = new List<char>();
     public GameObject tile;
     public float spacing = .71f;
     float x = 0;
@@ -18,8 +17,7 @@ public class GameStart : MonoBehaviour
     // Use this for initialization
     void Start()
     {
-        
-        tile = (GameObject)UnityEditor.AssetDatabase.LoadAssetAtPath("Assets/prefabs/BlankTile.prefab", typeof(GameObject));
+        //"Assets/prefabs/BlankTile.prefab"
         PlaceMap();
     }
 
