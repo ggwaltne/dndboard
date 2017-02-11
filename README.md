@@ -27,3 +27,6 @@ Playable 14x26 grid
 The TV screen has a visual offset from the top left corner:
   - 24 pixels Horizontal
   - 36 pixels Vertical
+  
+## UI
+- Radial Health Bar to follow each player
